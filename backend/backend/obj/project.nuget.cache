@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8IeemEXhy8qDmukHWZdM1iaXB5gs/qQ7KcnIa7FVNhlAO3QBrWByrcV8l52nLjr/78UMWd0cx07cTzVk5iRFBA==",
+  "success": true,
+  "projectFilePath": "/home/erce/Documents/projeler/OSDS/backend/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/home/erce/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.4.0/runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/home/erce/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/home/erce/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/home/erce/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/home/erce/.nuget/packages/system.data.sqlclient/4.9.0/system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

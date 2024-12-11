@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dashboard</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+            background: #f9f9f9;
+        }
+        .header {
+            background: #007bff;
+            color: #fff;
+            padding: 15px 20px;
+            text-align: center;
+            font-size: 24px;
+        }
+        .content {
+            margin: 20px;
+        }
+        .content h2 {
+            font-size: 20px;
+            color: #333;
+        }
+        .content p {
+            font-size: 16px;
+            color: #666;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .button:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">user dashboard</div>
+    <div class="content">
+        <h2>welcome back</h2>
+        <p>you can view and manage your requests below.</p>
+        <a href="/view-requests" class="button">view requests</a>
+        <a href="/new-request" class="button">create new request</a>
+    </div>
+</body>
+</html>
